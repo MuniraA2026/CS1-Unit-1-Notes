@@ -1,1 +1,20 @@
+/* This is a CSS Comment */
 
+/* Select elements by Typ */
+p {
+    color:rgb(251, 10, 251)
+}
+h1, h2, h3 {
+ font-family: sans-serif; 
+ color:blue;
+}
+
+/* Select elements by Class Name */
+.border {
+    border: 2px black;
+}
+
+/* Select unique element by ID Name */
+#intro { 
+    background-color:aquamarine; 
+}
