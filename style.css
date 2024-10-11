@@ -16,7 +16,10 @@ h1, h2, h3 {
  color:blue;
 }
 h1{
-  text-align: center;  
+  text-align: center; 
+  padding: 10px;
+  margin: 20px;
+  margin-bottom: 100px;
 }
 
 /* Select elements by Class Name */
